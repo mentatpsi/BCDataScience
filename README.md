@@ -22,7 +22,7 @@ I hope this serves a greater purpose to help out researchers.
 A Random Tree Ensemble is a collection of Decision trees with non-deterministic properties designed to prevent over-fitting through random selection of sample training data and feature sets (columns - in our case gene mutations). They construct a decision tree through usuage of information entropy to enhance the gain of information across a decision node. These trees then form a collection of decision makers that vote on a classification together.
 
 #### Neural Network
-The neural network used focuses on a logistic regression activation function, which works through passing a linear regression through a sigmoid function to inspire logical classifcation (binary). We attempt to predict survival based on gene mutations.  
+The neural network used focuses on a logistic regression activation function, which works through passing a linear regression through a sigmoid function to inspire logical classifcation (binary). In the case of activation, it uses this for propagation throughout the Neural network. We attempt to predict survival based on gene mutations.  
 
 #### Naive Bayes
 Naive Bayes employs conditional probabilities and Bayes Theorem to determine class. It is called Naive because it employs the notion of independence to determine class which allows for unique mathematical operations not possible in dependence.
