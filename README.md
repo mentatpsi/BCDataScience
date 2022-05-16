@@ -1,4 +1,6 @@
-# Boston University Metropolitan CS 677 Data Science Final Project
+# Data Science - Memorial Sloan Kettering Cancer Center Breast Cancer Study 2018 (cBioPortal)
+
+## Boston University Metropolitan CS 677 Data Science Final Project
 As part of an intensive 7 week course on Data Science fundamentals, I selected as my final project an implementation of Machine Learning and Data Science on a Breast Cancer study from Memorial Sloan Kettering Cancer Center from 2018. All data was made available on cBioPortal and I've added it here as well. 
 
 ## Instructions
